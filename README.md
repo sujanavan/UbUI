@@ -1,3 +1,3 @@
 # UbUI
-Usage-based User Interface<br>
+Usage-based User Interface @ Client-side<br>
 For Demo visit https://sujanavan.github.io/ubui/
